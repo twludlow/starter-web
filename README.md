@@ -16,7 +16,7 @@ Deploy deploy
 
 ## How To Contribute
 
-JUST DO IT
+JUST DO IT. Please fork repo and issue Pull requests for review.
 
 ### Copyright
 
