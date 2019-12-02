@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tom Ludlow -- tludlow@gmail.com -- @twludlow
 
 # THANKS
 
