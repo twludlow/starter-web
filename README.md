@@ -20,4 +20,4 @@ JUST DO IT. Please fork repo and issue Pull requests for review.
 
 ### Copyright
 
-Copyright TL 2019
+Copyright TL 2019 - All rights reserved
