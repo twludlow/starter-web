@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    To Jason, instructor.
 
 # TECHNOLOGY COLOPHON
 
