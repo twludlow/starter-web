@@ -17,3 +17,7 @@ Deploy deploy
 ## How To Contribute
 
 JUST DO IT
+
+### Copyright
+
+Copyright TL 2019
